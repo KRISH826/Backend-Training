@@ -1,0 +1,13 @@
+Http crash course
+(Hyper text transer protocol)
+
+what are the http headers? 
+=> 
+
+request headers => frm client
+response headers => from server
+representation headers => encoding / compression
+payload headers => data
+
+MOST COMMO HEADERS
+
